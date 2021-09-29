@@ -18,7 +18,8 @@ The used data set is a transnational data set which contains transactions occurr
 
 
 Attribute Information:
-+ InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation  StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product. 
++ InvoiceNo: Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation  
++ StockCode: Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product. 
 + Description: Product (item) name. Nominal. 
 + Quantity: The quantities of each product (item) per transaction. Numeric.  
 + InvoiceDate: Invoice Date and time. Numeric, the day and time when each transaction was generated. 
@@ -30,7 +31,7 @@ Size: 541909 instances and 8 attributes
 
 ### Unsupervised Machine Learning
 - K-Means
-- Scikit-learn with StandardScaler
+- Scikit-learn
 - Pickle Python
 
 
