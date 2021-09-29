@@ -6,6 +6,7 @@ Objectives:
 - Provide valuable insights about the customers and their shopping behaviour 
 - Customer segmentation into clusters
 - Analysing each cluster, in order to give conclusion on how to target each cluster
+- Market basket analysis
 
 ### 📝 Hypothesis
 
