@@ -30,7 +30,6 @@ Size: 541909 instances and 8 attributes
 
 ### Unsupervised Machine Learning
 - K-Means
-- Beautiful Soup
 - Scikit-learn with StandardScaler
 - Pickle Python
 
