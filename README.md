@@ -1,3 +1,5 @@
+![image](ironhacklogo.png)
+
 # Final_Project_Customer_Clustering
 
 ### 💼 Project Description
@@ -9,6 +11,10 @@ Objectives:
 - Market basket analysis
 
 ### 📝 Hypothesis
+
+
+### :bulb: Conclusion
+
 
 ### 💻 Data Set
 
@@ -30,12 +36,10 @@ Attribute Information:
 
 Size: 541909 instances and 8 attributes
 
-### Unsupervised Machine Learning
+### 🛠️ Unsupervised Machine Learning
 - K-Means
 - Scikit-learn
 - Pickle Python
 
 
-### Conclusion
-
-### Links 
+### :link: Links 
