@@ -10,8 +10,6 @@ Objectives:
 - Analysing each cluster, in order to give conclusion on how to target each cluster
 - Market basket analysis
 
-### 📝 Hypothesis
-
 
 ### :bulb: Conclusion
 
